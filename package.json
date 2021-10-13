@@ -1,0 +1,23 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShakeyShack2844/APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShakeyShack2844/APIs/issues"
+  },
+  "homepage": "https://github.com/ShakeyShack2844/APIs#readme",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
